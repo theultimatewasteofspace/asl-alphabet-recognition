@@ -1,0 +1,4 @@
+asl_model.pth
+asl_alphabet_train/
+asl_alphabet_test/
+venv/
